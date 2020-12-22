@@ -1,7 +1,7 @@
 #SadapWA
-#Coded by. MiSetya
+#Coded by. Arie
 #Jangan recode ngentod!!
-#mau recode izin 0823-8623-4828
+#mau recode izin 0813-1636-5127
 
 clear
 bi='\033[34;1m' #biru
@@ -14,7 +14,7 @@ ku='\033[33;1m' #kuning
 
 echo $cy"<|=======================================|>"
 echo $cy "||     $i Sadap WhatsApp Version 2.0     $cy||"
-echo $cy "||     $i Author: MiSetya                $cy||"
+echo $cy "||     $i Author: arie                   $cy||"
 echo $cy "||     $i Team  : Light Cyber Indonesia  $cy||"
 echo $cy"<|=======================================|>"
 echo
@@ -29,14 +29,14 @@ echo $i"<[  $pu 5.Sadap Nomor Smartfren  $i   ]>"
 echo $i"<[===============================]>"
 echo
 echo $bi "╭─"$i"Pilih Salah Satu"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$arie>>"  pil
 
 if [ $pil = '1' ]
 then
 echo
 echo
 echo $bi "╭─"$i"Masukan Nomor Target"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$arie>>"  pil
 echo
 echo
 echo $i"[•] Mengecek Nomor"
@@ -76,7 +76,7 @@ then
 echo
 echo
 echo $bi "╭─"$i"Masukan Nomor Target"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$arie>>"  pil
 echo
 echo
 echo $i"[•] Mengecek Nomor"
@@ -116,7 +116,7 @@ then
 echo
 echo
 echo $bi "╭─"$i"Masukan Nomor Target"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$arie>>"  pil
 echo
 echo
 echo $i"[•] Mengecek Nomor"
@@ -156,7 +156,7 @@ then
 echo
 echo
 echo $bi "╭─"$i"Masukan Nomor Target"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$arie>>"  pil
 echo
 echo
 echo $i"[•] Mengecek Nomor"
@@ -196,7 +196,7 @@ then
 echo
 echo
 echo $bi "╭─"$i"Masukan Nomor Target"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$arie>>"  pil
 echo
 echo
 echo $i"[•] Mengecek Nomor"
